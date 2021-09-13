@@ -10,3 +10,9 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)&nbsp;
 ![Npm](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)&nbsp;
 ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)&nbsp;
+
+### 🤝 Connect with me:
+
+[<img align="left" alt="vlad4k5 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/vlad4k5)
+[<img align="left" alt="vlad4k5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vlad4k5)&nbsp;
+
