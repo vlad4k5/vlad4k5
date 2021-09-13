@@ -11,6 +11,15 @@
 ![Npm](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)&nbsp;
 ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)&nbsp;
 
+### 💡 About me:
+
+- 📅 I'm 21 y. o.
+- 🌍 I'm from Kyiv (Ukraine)
+- 🎓 Student of National Transport University (Computer sciense)
+- ✔️ Currently looking for a job
+- 📚 Learning now React and Redux
+- 🏈 Hobbies: Chess, Сycling, Skiing
+
 ### 🤝 Connect with me:
 
 [<img align="left" alt="vlad4k5 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/vlad4k5)
