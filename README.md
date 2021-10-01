@@ -17,7 +17,7 @@
 - 🌍 I'm from Kyiv (Ukraine)
 - 🎓 Student of National Transport University (Computer sciense)
 - ✔️ Currently looking for a job
-- 📚 Learning now React and Redux
+- 📚 Learning React and Redux
 - 🏈 Hobbies: Chess, Сycling, Skiing
 
 ### 🤝 Connect with me:
