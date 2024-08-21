@@ -13,9 +13,8 @@
 
 ### 💡 About me:
 
-- 📅 I'm 21 y. o.
-- 🌍 I'm from Kyiv (Ukraine)
-- 🎓 Student of National Transport University (Computer sciense)
+- 📅 I'm 24 y. o.
+- 🌍 I'm from Duisburg (Germany)
 - ✔️ Looking for a job
 - 📚 Currently learning Next.js
 - 🏈 Hobbies: Chess, Сycling, Skiing
